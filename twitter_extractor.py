@@ -23,7 +23,7 @@ users = ["BautiGilC",'PedroBordaberry','Luisaheber','pdasilve', 'ElsaLevrero', '
 ################################################ Extractor ###############################################################
  
 for user in users:
-    path = 'D:\DataScience\GitHub\Tweetpol\DATA\{}'.format(user)
+    path = '.\DATA\{}'.format(user)
     if not os.path.exists(path):
         os.mkdir(path)
     query = 'from:' + ' {} '.format(user) +  ' -is:retweet'
