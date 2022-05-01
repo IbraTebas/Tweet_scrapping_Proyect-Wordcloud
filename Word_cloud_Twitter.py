@@ -18,13 +18,15 @@ mask = np.array(Image.open("head.png"))
 ################################### Cloud creation ######################################################################
 
 def create_cloud(dictio, user, Tweets_count, today):
-    wordcloud = WordCloud(width=900,height=500, mask=mask,contour_color='#FFFFFF',contour_width=3, max_words=20, font_path='ZingRustDemo-Base.otf', relative_scaling=1,normalize_plurals=False, colormap = 'Pastel1', background_color='black').generate_from_frequencies(dictio)
-    plt.figure( figsize=(40,20) )
-    plt.imshow(wordcloud, interpolation='bilinear')
-    plt.axis("off")
-    plt.title('Las 20 palabras más usadas de @{} \n Tweets analizados:{} - Fecha: {}'.format(user,Tweets_count, today), loc='left', fontsize=40, color = 'rebeccapurple', fontfamily = 'cursive')
-    plt.show()
-    
+    try:
+        wordcloud = WordCloud(width=900,height=500, mask=mask,contour_color='#FFFFFF',contour_width=3, max_words=20, font_path='ZingRustDemo-Base.otf', relative_scaling=1,normalize_plurals=False, colormap = 'Pastel1', background_color='black').generate_from_frequencies(dictio)
+        plt.figure( figsize=(40,20) )
+        plt.imshow(wordcloud, interpolation='bilinear')
+        plt.axis("off")
+        plt.title('Las 20 palabras más usadas de @{} \n Tweets analizados:{} - Fecha: {}'.format(user,Tweets_count, today), loc='left', fontsize=40, color = 'rebeccapurple', fontfamily = 'cursive')
+        plt.show()
+    except:
+        pass
     
 def nube(dataframe, column, user, Tweets_count, today):
     dictio=count_sent(convert_column_to_string(dataframe[column]))
