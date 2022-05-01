@@ -1,20 +1,22 @@
 ,author_id,tweet_id,time,text,metrics,tweet_url,images
-0,140034129,1520445907069722624,2022-04-30 16:52:07+00:00,"Enhorabuena, 
-#HalaMadrid","{'retweet_count': 1913, 'reply_count': 281, 'like_count': 18013, 'quote_count': 97}",,{'media_keys': ['3_1520445889487249408']}
-1,140034129,1520405342718464001,2022-04-30 14:10:56+00:00,Todo mi apoyo  Gracias por tu fortaleza.,"{'retweet_count': 485, 'reply_count': 162, 'like_count': 2073, 'quote_count': 24}",,
-2,140034129,1520139385471184899,2022-04-29 20:34:06+00:00,Con más ganas que nunca.,"{'retweet_count': 683, 'reply_count': 387, 'like_count': 3946, 'quote_count': 69}",,{'media_keys': ['3_1520139380970737665']}
-3,140034129,1520096114262917120,2022-04-29 17:42:10+00:00,"Gracias  por el paso tan importante que has dado para dedicarte por completo a España. 
+0,140034129,1520698728033796097,2022-05-01 09:36:44+00:00,Cultura en Madrid sin límites.,"{'retweet_count': 65, 'reply_count': 18, 'like_count': 284, 'quote_count': 1}",,{'media_keys': ['3_1520698722681774080']}
+1,140034129,1520671185989779456,2022-05-01 07:47:18+00:00,24 horas intensas entre Madrid y Asturias.,"{'retweet_count': 116, 'reply_count': 60, 'like_count': 729, 'quote_count': 3}",,
+2,140034129,1520445907069722624,2022-04-30 16:52:07+00:00,"Enhorabuena, 
+#HalaMadrid","{'retweet_count': 2123, 'reply_count': 306, 'like_count': 20981, 'quote_count': 104}",,{'media_keys': ['3_1520445889487249408']}
+3,140034129,1520405342718464001,2022-04-30 14:10:56+00:00,Todo mi apoyo  Gracias por tu fortaleza.,"{'retweet_count': 580, 'reply_count': 258, 'like_count': 2645, 'quote_count': 34}",,
+4,140034129,1520139385471184899,2022-04-29 20:34:06+00:00,Con más ganas que nunca.,"{'retweet_count': 691, 'reply_count': 391, 'like_count': 3995, 'quote_count': 69}",,{'media_keys': ['3_1520139380970737665']}
+5,140034129,1520096114262917120,2022-04-29 17:42:10+00:00,"Gracias  por el paso tan importante que has dado para dedicarte por completo a España. 
 
-Tus éxitos serán los de todos, a tu lado.","{'retweet_count': 664, 'reply_count': 602, 'like_count': 5114, 'quote_count': 50}",,
-4,140034129,1520053009903984642,2022-04-29 14:50:53+00:00,"Gracias a todos los asturianos por su hospitalidad. 
+Tus éxitos serán los de todos, a tu lado.","{'retweet_count': 672, 'reply_count': 610, 'like_count': 5200, 'quote_count': 50}",,
+6,140034129,1520053009903984642,2022-04-29 14:50:53+00:00,"Gracias a todos los asturianos por su hospitalidad. 
 
 Con ciudadanos y empresarios hemos analizado políticas que ayuden a Asturias y a Madrid a crecer juntas y seguir mejorando España. 
 
-Bajos impuestos, libertad y prosperidad. Con alegría y todas las ganas.","{'retweet_count': 565, 'reply_count': 360, 'like_count': 3591, 'quote_count': 48}",,"{'media_keys': ['3_1520052998134763521', '3_1520052998231281666', '3_1520052998478643200', '3_1520052998831022082']}"
-5,140034129,1520044616040517632,2022-04-29 14:17:32+00:00,El 2 de mayo celebremos más cosas.,"{'retweet_count': 526, 'reply_count': 81, 'like_count': 2071, 'quote_count': 30}",,{'media_keys': ['7_1520044495999488003']}
-6,140034129,1519975442719158273,2022-04-29 09:42:39+00:00,Del socialismo se sale si se hace con ganas.,"{'retweet_count': 2139, 'reply_count': 992, 'like_count': 8639, 'quote_count': 220}",,{'media_keys': ['7_1519975382748913664']}
-7,140034129,1519707216684716032,2022-04-28 15:56:49+00:00,"Con ilusión, compromiso y vocación por Madrid. Con más ganas que nunca.","{'retweet_count': 780, 'reply_count': 405, 'like_count': 4571, 'quote_count': 47}",,{'media_keys': ['3_1519707212133900289']}
-8,140034129,1519672137841360899,2022-04-28 13:37:26+00:00,"ℹ️ Comité crisis #Ucrania 27A
+Bajos impuestos, libertad y prosperidad. Con alegría y todas las ganas.","{'retweet_count': 568, 'reply_count': 364, 'like_count': 3637, 'quote_count': 48}",,"{'media_keys': ['3_1520052998134763521', '3_1520052998231281666', '3_1520052998478643200', '3_1520052998831022082']}"
+7,140034129,1520044616040517632,2022-04-29 14:17:32+00:00,El 2 de mayo celebremos más cosas.,"{'retweet_count': 531, 'reply_count': 81, 'like_count': 2092, 'quote_count': 30}",,{'media_keys': ['7_1520044495999488003']}
+8,140034129,1519975442719158273,2022-04-29 09:42:39+00:00,Del socialismo se sale si se hace con ganas.,"{'retweet_count': 2153, 'reply_count': 1002, 'like_count': 8700, 'quote_count': 221}",,{'media_keys': ['7_1519975382748913664']}
+9,140034129,1519707216684716032,2022-04-28 15:56:49+00:00,"Con ilusión, compromiso y vocación por Madrid. Con más ganas que nunca.","{'retweet_count': 785, 'reply_count': 406, 'like_count': 4580, 'quote_count': 47}",,{'media_keys': ['3_1519707212133900289']}
+10,140034129,1519672137841360899,2022-04-28 13:37:26+00:00,"ℹ️ Comité crisis #Ucrania 27A
 
 👥 Personas atendidas: 9.619
 ✅ Servicios activados: 33.879
@@ -24,32 +26,32 @@ Bajos impuestos, libertad y prosperidad. Con alegría y todas las ganas.","{'ret
 🚇 Tarjetas transporte: 7.711
 👩‍💻 Servicios Empleo: 1.009
 🏨 Alojamiento: 620
-🤝 Ayuda humanitaria: 724t","{'retweet_count': 373, 'reply_count': 175, 'like_count': 1635, 'quote_count': 13}",,
-9,140034129,1519636125006106631,2022-04-28 11:14:20+00:00,"Flaco favor para la confianza en España el meter a los golpistas en la comisión de secretos oficiales.
+🤝 Ayuda humanitaria: 724t","{'retweet_count': 373, 'reply_count': 175, 'like_count': 1636, 'quote_count': 13}",,
+11,140034129,1519636125006106631,2022-04-28 11:14:20+00:00,"Flaco favor para la confianza en España el meter a los golpistas en la comisión de secretos oficiales.
 
 Y retorcer el legislativo para solucionar las chapuzas del ejecutivo.
 
-Esto es simple autoritarismo y torpeza.","{'retweet_count': 2010, 'reply_count': 715, 'like_count': 7531, 'quote_count': 78}",,{'media_keys': ['7_1519636048992743425']}
-10,140034129,1519384256350404609,2022-04-27 18:33:30+00:00,"He presentado los avales necesarios para optar a ser candidata a presidir el PP de Madrid. 
+Esto es simple autoritarismo y torpeza.","{'retweet_count': 2012, 'reply_count': 719, 'like_count': 7548, 'quote_count': 79}",,{'media_keys': ['7_1519636048992743425']}
+12,140034129,1519384256350404609,2022-04-27 18:33:30+00:00,"He presentado los avales necesarios para optar a ser candidata a presidir el PP de Madrid. 
 
-Gracias a todos los que han firmado y siguen haciéndolo por esta candidatura de ilusión y compromiso con el proyecto político más importante de la Comunidad de Madrid.","{'retweet_count': 1267, 'reply_count': 560, 'like_count': 8455, 'quote_count': 95}",,{'media_keys': ['3_1519384250281250816']}
-11,140034129,1519332971664355335,2022-04-27 15:09:42+00:00,"Pues que no entendemos “la naturaleza interconectada y ecodependiente de las actividades humanas, mediante la identificación y análisis de problemas ecosociales de relevancia, para promover hábitos y actitudes éticamente comprometidos con el logro de formas de vida sostenibles.”","{'retweet_count': 1448, 'reply_count': 1115, 'like_count': 5064, 'quote_count': 295}",,{'media_keys': ['7_1519332873135964164']}
-12,140034129,1519292992888135680,2022-04-27 12:30:51+00:00,Un buen vino como el que los señores del gobierno nos quieren prohibir.,"{'retweet_count': 5843, 'reply_count': 7037, 'like_count': 34071, 'quote_count': 2977}",,{'media_keys': ['3_1519292988404477953']}
-13,140034129,1519016665769553921,2022-04-26 18:12:49+00:00,"Hoy hemos inaugurado el nuevo Ayuntamiento de Tielmes, que ha contado con una importante aportación de  para la obra.
+Gracias a todos los que han firmado y siguen haciéndolo por esta candidatura de ilusión y compromiso con el proyecto político más importante de la Comunidad de Madrid.","{'retweet_count': 1266, 'reply_count': 560, 'like_count': 8467, 'quote_count': 95}",,{'media_keys': ['3_1519384250281250816']}
+13,140034129,1519332971664355335,2022-04-27 15:09:42+00:00,"Pues que no entendemos “la naturaleza interconectada y ecodependiente de las actividades humanas, mediante la identificación y análisis de problemas ecosociales de relevancia, para promover hábitos y actitudes éticamente comprometidos con el logro de formas de vida sostenibles.”","{'retweet_count': 1448, 'reply_count': 1118, 'like_count': 5067, 'quote_count': 295}",,{'media_keys': ['7_1519332873135964164']}
+14,140034129,1519292992888135680,2022-04-27 12:30:51+00:00,Un buen vino como el que los señores del gobierno nos quieren prohibir.,"{'retweet_count': 5849, 'reply_count': 7046, 'like_count': 34113, 'quote_count': 2977}",,{'media_keys': ['3_1519292988404477953']}
+15,140034129,1519016665769553921,2022-04-26 18:12:49+00:00,"Hoy hemos inaugurado el nuevo Ayuntamiento de Tielmes, que ha contado con una importante aportación de  para la obra.
 
 Luego, en Valdilecha, hemos conocido otras inversiones regionales en este precioso pueblo madrileño.
 
 Madrid palmo a palmo.","{'retweet_count': 393, 'reply_count': 175, 'like_count': 2405, 'quote_count': 16}",,"{'media_keys': ['3_1519016656063840256', '3_1519016656055545857', '3_1519016656059748353', '3_1519016656055554048']}"
-14,140034129,1518849830159802369,2022-04-26 07:09:53+00:00,Los bajos impuestos sitúan a Madrid con la menor economía sumergida de España.,"{'retweet_count': 1230, 'reply_count': 524, 'like_count': 5408, 'quote_count': 115}",,
-15,140034129,1518625342084288512,2022-04-25 16:17:50+00:00,"El Gobierno se ha propuesto destrozar la educación pública en España. 
+16,140034129,1518849830159802369,2022-04-26 07:09:53+00:00,Los bajos impuestos sitúan a Madrid con la menor economía sumergida de España.,"{'retweet_count': 1230, 'reply_count': 526, 'like_count': 5408, 'quote_count': 115}",,
+17,140034129,1518625342084288512,2022-04-25 16:17:50+00:00,"El Gobierno se ha propuesto destrozar la educación pública en España. 
 
-El camino a deshacer es enorme, pero nos comprometemos a enmendarlo.","{'retweet_count': 1855, 'reply_count': 934, 'like_count': 8286, 'quote_count': 175}",,
-16,140034129,1518569828197490689,2022-04-25 12:37:15+00:00,"Otros 41 pequeños municipios de Madrid tendrán una oficina bancaria móvil para hacer gestiones. Ayudará a mayores y personas con problemas de movilidad. 
+El camino a deshacer es enorme, pero nos comprometemos a enmendarlo.","{'retweet_count': 1856, 'reply_count': 936, 'like_count': 8290, 'quote_count': 175}",,
+18,140034129,1518569828197490689,2022-04-25 12:37:15+00:00,"Otros 41 pequeños municipios de Madrid tendrán una oficina bancaria móvil para hacer gestiones. Ayudará a mayores y personas con problemas de movilidad. 
 
 Se unen al 5G, las farmacias rurales y la telemedicina. 
 
-Estamos al servicio de los madrileños vivan donde vivan.","{'retweet_count': 641, 'reply_count': 190, 'like_count': 3177, 'quote_count': 29}",,"{'media_keys': ['3_1518569822602371072', '3_1518569822619058176', '3_1518569822623342592', '3_1518569822631731204']}"
-17,140034129,1518522427894075393,2022-04-25 09:28:54+00:00,"Madrid es cultura:
+Estamos al servicio de los madrileños vivan donde vivan.","{'retweet_count': 641, 'reply_count': 190, 'like_count': 3178, 'quote_count': 29}",,"{'media_keys': ['3_1518569822602371072', '3_1518569822619058176', '3_1518569822623342592', '3_1518569822631731204']}"
+19,140034129,1518522427894075393,2022-04-25 09:28:54+00:00,"Madrid es cultura:
 
 - 100 museos y galerías de arte.
 - 289 salas de artes escénicas.
@@ -57,8 +59,8 @@ Estamos al servicio de los madrileños vivan donde vivan.","{'retweet_count': 64
 - 24,6% compañías teatrales.
 - 20,6% compañías de danza.
 
-Supone el 24% del empleo cultural de todo el país.","{'retweet_count': 726, 'reply_count': 485, 'like_count': 4070, 'quote_count': 48}",,{'media_keys': ['3_1518522422865149953']}
-18,140034129,1518485052262432768,2022-04-25 07:00:23+00:00,"Buenos días:
+Supone el 24% del empleo cultural de todo el país.","{'retweet_count': 726, 'reply_count': 486, 'like_count': 4070, 'quote_count': 48}",,{'media_keys': ['3_1518522422865149953']}
+20,140034129,1518485052262432768,2022-04-25 07:00:23+00:00,"Buenos días:
 
 Comienza la semana con nuevas propuestas para las familias madrileñas.
 
