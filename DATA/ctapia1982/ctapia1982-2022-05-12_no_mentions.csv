@@ -1,0 +1,5 @@
+,author_id,tweet_id,time,text,metrics,tweet_url,images
+0,279012635,1522608176117428224,2022-05-06 16:04:12+00:00,,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",,
+1,279012635,1522333299569573889,2022-05-05 21:51:56+00:00,"Hoy, en Antes Que Sea Canción, con testimonios de Luis Cesio y Jorge García Venegas, hablamos de Psiglo.
+
+A las 20:30 horas por","{'retweet_count': 2, 'reply_count': 1, 'like_count': 8, 'quote_count': 0}",,{'media_keys': ['3_1522333001648119808']}
