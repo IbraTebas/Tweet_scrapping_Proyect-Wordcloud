@@ -44,7 +44,7 @@ def main():
             df = pd.DataFrame(listed, columns=['author_id', 'tweet_id', 'time', 'text', 'metrics', 'tweet_url', 'images'])        
                 
             #Saving dataframe with mentions.
-            df.to_csv(os.path.join(path, "{}-{}_with_mentions.csv".format(user, today)))
+            df.to_csv(os.path.join(path + "/with_mentions", "{}-{}_with_mentions.csv".format(user, today)))
                 
             # Cleaning user mentions
             df2=df.replace(regex=r"(?:\@|https?\://)\S+",value='')

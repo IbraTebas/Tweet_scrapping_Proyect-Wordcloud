@@ -26,12 +26,13 @@ for user in users:
         
        # Read each CSV file into DataFrame
        # This creates a list of dataframes
-    df_list= (pd.read_csv(file) for file in csv_files)
+    df_list= [pd.read_csv(file) for file in csv_files]
 
         
     #     # Concatenate all DataFrames
     try:
         big_df = pd.concat(df_list, ignore_index=True) 
+        big_df = big_df.iloc[: , 1:]
         big_df = big_df.drop_duplicates()
           
         wct.nube(big_df, 'text', user, len(big_df)-1, date.today())
